@@ -16,7 +16,7 @@ Pattern Matching, Text Summarization, Skill wise Classification and Spell Checke
 Python 3.7
 
 ### Evaluation Metric
-Cosine Similarity and Jaccard Similarity. 
+Cosine Similarity. 
 
 ### Steps Included:
 1. First, to check whether the resume is in proper format we implemented spell checker and checked for missing key words between resume and job description.
